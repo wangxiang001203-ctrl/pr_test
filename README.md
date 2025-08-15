@@ -4,12 +4,10 @@ pr测试
 git switch -c feature/login-page
 你好啊
 撒大大
+奥利给给
 撒大大实打实大大
 Hello from upstream!
-<<<<<<< HEAD
 from 晓东
-=======
-
+钟方阳
 liuhang 
->>>>>>> upstream/main
 海涛2
